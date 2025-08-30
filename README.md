@@ -14,16 +14,15 @@ Specializing in NOC operations, secure system architecture, and vulnerability as
 
 ---
 
-## 📂 Selected Projects
+## 🛡️ Platforms & Labs
 
-- [Managing Interns](https://github.com/MedAminele/Managing-interns)  
-  Role-based access system for intern tracking and management.
+- TryHackMe 🧠: [@MedAminele](https://tryhackme.com/p/MedAminele)
+  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/HakkaJin42.png)
+- PortSwigger Web Academy 🧪
+- HackTheBox 💻
 
-- [Spring User Management](https://github.com/MedAminele/Gestion-des-utilisateurs-Spring-)  
-  Secure user management platform using Spring Boot and JWT.
 
-- [BMW E46 Foglight Upgrade](https://github.com/MedAminele/BMW-E46-Foglight-Upgrade)  
-  Compatibility mapping and installation guide tailored to Moroccan market.
+
 
 ---
 
