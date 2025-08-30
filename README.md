@@ -6,11 +6,16 @@ Specializing in NOC operations, secure system architecture, and vulnerability as
 
 ## 🔧 Core Competencies
 
-- Network Operations & Monitoring (NOC)
-- Cybersecurity & Pentesting (Kali Linux, Burp Suite, h2csmuggler.py)
+
+- Cybersecurity & Pentesting (Kali Linux, Burp Suite)
 - Secure Web & Mobile Development
 - Infrastructure Hardening & Incident Response
-- Automotive diagnostics and retrofit (BMW E46 series)
+- Network Operations & Monitoring (PRTG, Unitrends)
+- Incident Response & Backup Analysis
+- System Administration (Active Directory, Azure, Microsoft 365)
+- ITSM Platforms (Fresh Service, BMC Helix)
+- Telephony Systems (Avaya, Nice)
+- PowerShell Automation & Infrastructure Hardening
 
 ---
 
@@ -20,8 +25,6 @@ Specializing in NOC operations, secure system architecture, and vulnerability as
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/HakkaJin42.png)
 - PortSwigger Web Academy 🧪
 - HackTheBox 💻
-
-
 
 
 ---
@@ -45,19 +48,25 @@ Specializing in NOC operations, secure system architecture, and vulnerability as
 
 ---
 
-## 📎 Certifications & Platforms
+## 🧠 Certifications
 
-- Burp Suite Certified Practitioner  
-- TryHackMe: [@MedAminele](https://tryhackme.com/@MedAminele)  
-- FreeCodeCamp & Azure Fundamentals (AZ-900)
-
----
-
-## 🌍 Languages
-
-- French 🇫🇷 | English 🇬🇧 | Japanese 🇯🇵 
+- 🧪 TryHackMe Jr Penetration Tester — [Badge](https://tryhackme-badges.s3.amazonaws.com/MedAminele.png)  
+- 📜 ITIL® Foundation v4 — PeopleCert  
+- 🛡️ Burp Suite Certified Practitioner — PortSwigger  
+- ☁️ Microsoft Azure Fundamentals (AZ-900)
 
 ---
 
-For collaboration, consulting, or technical inquiries, feel free to connect via [LinkedIn](https://linkedin.com/in/amine-sec) or reach out directly.
+## 🌐 Languages
 
+- Arabic 🇲🇦 — Native  
+- French 🇫🇷 — Professional  
+- English 🇬🇧 — Fluent  
+- Japanese 🇯🇵 — Basic (furigana reading)
+
+---
+
+## 🔗 Connect
+
+[LinkedIn Profile](https://www.linkedin.com/in/m-amine-lmk-4k2k42/)  
+[TryHackMe Profile](https://tryhackme.com/p/MedAminele)
