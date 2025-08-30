@@ -58,12 +58,12 @@ Specializing in NOC operations, secure system architecture, and vulnerability as
 
 - Arabic 🇲🇦 — Native  
 - French 🇫🇷 — Professional  
-- English 🇬🇧 — Fluent  
-- Japanese 🇯🇵 — Basic (furigana reading)
+- English 🇬🇧 — Professional  
+- Japanese 🇯🇵 — Basic 
 
 ---
 
 ## 🔗 Connect
 
 [LinkedIn Profile](https://www.linkedin.com/in/m-amine-lmk-4k2k42/)  
-[TryHackMe Profile](https://tryhackme.com/p/MedAminele)
+[TryHackMe Profile](https://tryhackme.com/p/HakkaJin42)
