@@ -1,6 +1,6 @@
 # 🛡️ IT Infrastructure & Cybersecurity Analyst
 
-Specializing in NOC operations, secure system architecture, and vulnerability assessment. Currently pursuing a Master’s in Security of Information Systems at ENSA Kénitra (2024–2026).
+Specializing in NOC operations, secure system architecture, and vulnerability assessment.
 
 ---
 
@@ -47,8 +47,8 @@ Specializing in NOC operations, secure system architecture, and vulnerability as
 
 ## 🧠 Certifications
 
-- 🧪 TryHackMe Jr Penetration Tester — [Badge](https://tryhackme-badges.s3.amazonaws.com/MedAminele.png)  
-- 📜 ITIL® Foundation v4 — PeopleCert  
+- 🧪 TryHackMe Jr Penetration Tester — [Badge](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MH6ZLUF3ON.pdf)  
+- 📜 ITIL® Foundation v4 — PeopleCert  — [Badge](https://www.linkedin.com/in/m-amine-lmk-4k2k42/details/certifications/1729693000747/single-media-viewer/?type=IMAGE&profileId=ACoAADiNFqoBrNVw02mqvipbsvsDJMUzudrsfE8)  
 
 
 
