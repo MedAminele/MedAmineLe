@@ -21,11 +21,7 @@ Specializing in NOC operations, secure system architecture, and vulnerability as
 
 ## 🛡️ Platforms & Labs
 
-- TryHackMe 🧠: [@MedAminele](https://tryhackme.com/p/MedAminele)
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/HakkaJin42.png)
-- PortSwigger Web Academy 🧪
-- HackTheBox 💻
-
 
 ---
 
@@ -37,6 +33,7 @@ Specializing in NOC operations, secure system architecture, and vulnerability as
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?logo=burpsuite&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000?logo=owasp&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 
 ---
 
@@ -52,8 +49,8 @@ Specializing in NOC operations, secure system architecture, and vulnerability as
 
 - 🧪 TryHackMe Jr Penetration Tester — [Badge](https://tryhackme-badges.s3.amazonaws.com/MedAminele.png)  
 - 📜 ITIL® Foundation v4 — PeopleCert  
-- 🛡️ Burp Suite Certified Practitioner — PortSwigger  
-- ☁️ Microsoft Azure Fundamentals (AZ-900)
+
+
 
 ---
 
