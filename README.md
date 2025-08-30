@@ -1,16 +1,64 @@
-## Hi there 👋
+# 🛡️ IT Infrastructure & Cybersecurity Analyst
 
-<!--
-**MedAminele/MedAmineLe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Specializing in NOC operations, secure system architecture, and vulnerability assessment. Currently pursuing a Master’s in Security of Information Systems at ENSA Kénitra (2024–2026).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Core Competencies
+
+- Network Operations & Monitoring (NOC)
+- Cybersecurity & Pentesting (Kali Linux, Burp Suite, h2csmuggler.py)
+- Secure Web & Mobile Development
+- Infrastructure Hardening & Incident Response
+- Automotive diagnostics and retrofit (BMW E46 series)
+
+---
+
+## 📂 Selected Projects
+
+- [Managing Interns](https://github.com/MedAminele/Managing-interns)  
+  Role-based access system for intern tracking and management.
+
+- [Spring User Management](https://github.com/MedAminele/Gestion-des-utilisateurs-Spring-)  
+  Secure user management platform using Spring Boot and JWT.
+
+- [BMW E46 Foglight Upgrade](https://github.com/MedAminele/BMW-E46-Foglight-Upgrade)  
+  Compatibility mapping and installation guide tailored to Moroccan market.
+
+---
+
+## 🧰 Tools & Technologies
+
+![Linux](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-557C94?logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000?logo=owasp&logoColor=white)
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MedAminele&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MedAminele&layout=compact&theme=tokyonight)
+![Streak Stats](https://streak-stats.demolab.com?user=MedAminele&theme=tokyonight)
+
+---
+
+## 📎 Certifications & Platforms
+
+- Burp Suite Certified Practitioner  
+- TryHackMe: [@MedAminele](https://tryhackme.com/@MedAminele)  
+- FreeCodeCamp & Azure Fundamentals (AZ-900)
+
+---
+
+## 🌍 Languages
+
+- French 🇫🇷 | English 🇬🇧 | Japanese 🇯🇵 
+
+---
+
+For collaboration, consulting, or technical inquiries, feel free to connect via [LinkedIn](https://linkedin.com/in/amine-sec) or reach out directly.
+
