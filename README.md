@@ -17,7 +17,7 @@ Specializing in NOC operations, secure system architecture, and vulnerability as
 ## 🛡️ Platforms & Labs
 
 - TryHackMe 🧠: [@MedAminele](https://tryhackme.com/p/MedAminele)
-  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/HakkaJin42.png)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/HakkaJin42.png)
 - PortSwigger Web Academy 🧪
 - HackTheBox 💻
 
